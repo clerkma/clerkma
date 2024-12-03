@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**clerkma/clerkma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+日常趣味：
+  * 研究排版技术，涉及PDF、OpenType和复杂语言系统（绘制方面）
+  * 辞典搜集
+  * 水煮牛肉品鉴
 
-Here are some ideas to get you started:
+编程语言：
+  * C，日常使用（毕竟很多排版相关的库都是用C写的）
+  * Python，写原型很好用
+  * C++，懂一点，但不多，用的时候需要看参考书
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+健康状况：
+  * 右脚小时候受过伤，现在走路偶尔会疼，鞋选对了可能就不疼了
+  * 右膝盖在2023年摔过，估计半月板有损伤，气温骤变会疼
+  * 日常需要控制血脂和血糖
+  * 食欲没有以前强烈了
